@@ -1,0 +1,12 @@
+#exclude eclipse project setting
+.project
+.classpath
+.settings
+.externalToolBuilders
+#exclude output folder
+bin
+build
+doc
+#test/out
+
+
