@@ -1,6 +1,6 @@
 package yang.sopiana.euler;
 
-public class Problem8 
+public class Problem008 
 {
 	/*
 	 * Problem 8

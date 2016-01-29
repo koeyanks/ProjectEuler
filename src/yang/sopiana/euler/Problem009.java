@@ -1,6 +1,6 @@
 package yang.sopiana.euler;
 
-public class Problem9 
+public class Problem009 
 {
 	/*
 	 * A Pythagorean triplet is a set of three natural numbers, a < b < c, for which,

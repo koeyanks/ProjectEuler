@@ -2,7 +2,7 @@ package yang.sopiana.euler;
 
 import java.math.BigInteger;
 
-public class Problem7 
+public class Problem007 
 {
 	/**
 	 * Problem 7

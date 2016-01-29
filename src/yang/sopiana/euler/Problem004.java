@@ -1,6 +1,6 @@
 package yang.sopiana.euler;
 
-public class Problem4 
+public class Problem004 
 {
 	/*
 	 * A palindromic number reads the same both ways. The largest palindrome made from the product of two 2-digit 

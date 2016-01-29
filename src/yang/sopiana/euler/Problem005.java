@@ -1,8 +1,6 @@
 package yang.sopiana.euler;
 
-import java.math.BigInteger;
-
-public class Problem5 
+public class Problem005 
 {
 	/*
 	 * Problem 5
